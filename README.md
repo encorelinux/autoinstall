@@ -12,9 +12,23 @@ These are the scripts I use for installing the software and programs I need. The
 - To get the scripts onto your system simply use git clone:<br>
 ```git clone https://github.com/encorelinux/autoinstall```<br>
 ```cd autoinstall```
-## Using the installations scripts
-- If you are in the autoinstall directoy you just have to execute the scripts one by one to get the packages installed:
-```sudo bash 100-archlinux-post-install.sh```
+## Install 100-archlinux-post-install.sh
+From within the autoinstall directory execute the following command:<br>
+```sudo bash 100-archlinux-post-install.sh```<br>
 Packages that are being installed:<br>
 - xorg
 - xorg-xinit
+- xterm
+- bluez
+- bluez-utils
+- blueman
+- pulseaudio
+- pulseaudio-bluetooth
+- pulseaudio-alsa
+- pavucontrol
+- alsa-utils
+- alsa-plugins
+- alsa-lib
+- alsa-firmware
+- volumeicon
+- playerctl
