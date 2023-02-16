@@ -3,5 +3,8 @@ These are the scripts I use for installing the software and programs I need. The
 <b>Note:</b> This scripts are tailored to my system. I am using Nvidia GPU and therefore installing proprietary Nvidia drivers. You have to adjust the script for your system before you run it!
 ## Requirements
 - Fresh Arch Linux installation
-- base-devel
-- git
+- Intel/AMD Microcodes <i>(sudo pacman -S intel-ucode)
+- Linux Headers <i>(sudo pacman -S linux-headers)</i>
+- base-devel <i>(sudo pacman -S base-devel)</i>
+- git <i>(sudo pacman -S git)</i>
+- GPU Drivers (if necessary)
