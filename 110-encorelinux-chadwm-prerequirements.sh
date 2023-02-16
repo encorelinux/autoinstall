@@ -67,6 +67,7 @@ xfce4-settings
 xfce4-taskmanager
 nano
 vim
+sublime-text-4
 )
 
 count=0
