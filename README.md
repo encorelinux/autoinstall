@@ -33,3 +33,5 @@ Packages that are being installed:<br>
 - volumeicom
 - playerctl
 ```
+To get bluetooth activated after installing the packages make sure you execute the following command:<br>
+```sudo systemctl enable bluetooth.service```
