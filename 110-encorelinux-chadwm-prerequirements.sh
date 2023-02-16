@@ -58,6 +58,7 @@ sxhkd
 thunar
 thunar-volman
 thunar-archive-plugin
+file-roller
 ttf-hack
 volumeicon
 xfce4-notifyd
