@@ -13,7 +13,7 @@ These are the scripts I use for installing the software and programs I need. The
 ```git clone https://github.com/encorelinux/autoinstall```<br>
 ```cd autoinstall```
 ## Install 100-archlinux-post-install.sh
-This package installs the X11 display server and support for audio and bluetooth. I am using Pulseaudio and Blueman as man bluetooth mnanger. If you prefer something else, you just need to change it in the script before executing it.<br><br>From within the autoinstall directory execute the following command:<br><br>
+This package installs the X11 display server and support for audio and bluetooth. I am using Pulseaudio and Blueman as man bluetooth manager. If you prefer something else, you just need to change it in the script before executing it.<br><br>From within the autoinstall directory execute the following command:<br><br>
 ```sudo bash 100-archlinux-post-install.sh```<br><br>
 Packages that are being installed:<br>
 ```- xorg
