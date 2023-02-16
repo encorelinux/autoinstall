@@ -41,16 +41,12 @@ echo "Installation of the required packages for Arch Linux"
 ###############################################################################
 
 list=(
-intel-ucode
-nvidia-dkms
-nvidia-utils
-nvidia-settings
-bluez
-bluez-utils
-blueman
 xorg
 xorg-xinit
 xterm
+bluez
+bluez-utils
+blueman
 pulseaudio
 pulseaudio-bluetooth
 pulseaudio-alsa
